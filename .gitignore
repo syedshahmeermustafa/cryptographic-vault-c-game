@@ -1,0 +1,10 @@
+# Compiled C files
+*.o
+*.exe
+
+# Dev-C++ files
+*.layout
+*.depend
+
+# Temporary files
+*.tmp
